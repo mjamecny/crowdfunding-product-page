@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/crowdfunding-product-page-with-react-RbNKecpgnL)
 - Live Site URL: [Netlify](https://fm-crowdfunding-product-page.netlify.app)
 
 ## My process
