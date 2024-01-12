@@ -90,7 +90,7 @@ export default function PledgeForm({
       return
     }
 
-    if (Number(pledge) <= minPledge) {
+    if (Number(pledge) < minPledge) {
       toast.error(`Minimum pledge is ${minPledge}$`)
       return
     }

@@ -1,6 +1,5 @@
 import styled from "styled-components"
 import Selection from "./Selection"
-import { useState } from "react"
 
 const HeadingContainer = styled.div`
   display: flex;
